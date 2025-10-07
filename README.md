@@ -1,4 +1,4 @@
-### basic start but tried prod
+### basic start but tried prod inference pipeline
 # Housing Price Prediction
 
 This project demonstrates an end-to-end **Machine Learning pipeline** for predicting median house values using the **Housing Dataset**.  
